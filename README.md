@@ -1,2 +1,0 @@
-# ppt
-Projeto PPT Curso
